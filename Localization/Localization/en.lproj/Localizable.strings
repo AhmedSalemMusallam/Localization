@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  Localization
+
+  Created by Ahmed Salem on 07/01/2023.
+  
+*/
+"introLabel" = "Hello Every One";
+"changeLangBtn" = "Change Language";
+
+//chnage language action sheet
+"ChangeLangActionSheetTitle" = "Change Language";
+"ChangeLangActionSheetMessage" = "To change Language You have the app will be exit.";
+"ChangeLangActionYes" = "Approve";
+"ChangeLangActionNo" = "Exit";
